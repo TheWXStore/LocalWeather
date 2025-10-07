@@ -1,7 +1,7 @@
 {
 	"name": "ws4kp",
 	"version": "6.2.1",
-	"description": "Welcome to the WeatherStar 4000+ project page!",
+	"description": "Welcome to The WX Store",
 	"main": "index.mjs",
 	"type": "module",
 	"scripts": {
